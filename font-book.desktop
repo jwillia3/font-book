@@ -1,0 +1,10 @@
+[Desktop Entry]
+Version=1.0
+Type=Application
+Name=Font Book
+GenericName=Font Viewer
+Comment=List and view system fonts
+Exec=font-book.py
+Terminal=false
+Categories=Utility;Graphics;Viewer;Publishing;
+Icon=font-x-generic
